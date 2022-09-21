@@ -20,8 +20,8 @@ import Footer from './components/Footer';
 
 const App = () => {
   Aos.init({
-    duration: 1800,
-    offset: 100,
+    duration: 500,
+    offset: 90,
   });
   return (
     <div className='overflow-hidden'>
