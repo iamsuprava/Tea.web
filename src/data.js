@@ -33,28 +33,28 @@ export const facts = [
     endNumber: '50',
     unit: '',
     title: 'Outlets',
-    desc: 'We are 5 years of experienced in this yoga field. Giving the best instructions.',
+    desc: 'We are now the fasting gowing tea franchise in India.',
   },
   {
     startNumber: '1',
     endNumber: '75',
     unit: 'K',
     title: 'Cups Served Everyday',
-    desc: 'We have over five thousand clients all over the world. They are very satisfied.',
+    desc: 'We have over 85 thousand clients all over the India. They are very satisfied.',
   },
   {
     startNumber: '1',
     endNumber: '15',
     unit: '',
     title: 'Cities',
-    desc: 'We have over fifteen dedicated and experienced trainer for yoga and meditation.',
+    desc: 'We have 50+ outlets spread over more than 15 cities and counting.',
   },
   {
     startNumber: '1',
     endNumber: '6',
     unit: '',
     title: 'Months',
-    desc: 'Yoga is a physical, mental and spritual practice discipline. We provide 24+ classes monthly.',
+    desc: 'Just in 6 Months we have created milestones.',
   },
 ];
 
